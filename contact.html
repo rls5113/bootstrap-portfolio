@@ -1,53 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8">
-    <title>Contact</title>
-    <link rel="stylesheet" href="assets/css/reset.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-  </head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Contact</title>
+  <link rel="stylesheet" href="assets/css/reset.css">
   
-  <body>
-    <div class="container">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+  <link rel="stylesheet" ref="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+
+  <div class="container-fluid">
     <header>
-        <div class="clearfix">
-            <section id="left">
-                Robert Stuart
-            </section>
-          
-            <section id="right">
-              <div id="navLinks">
-                <a href="index.html">About</a>
-                <a href="portfolio.html">Portfolio</a>
-                <a href="#">Contact</a>
-              </div>
-            </section>
+      <nav class="navbar navbar-dark bg-info">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <h1 class="navbar-brand text-center">Robert Stuart</h1>
           </div>
+          <ul class="nav nav-tabs justify-content-end">
+            <li class="nav-item">
+              <a class="nav-link  text-dark" href="index.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="portfolio.html">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  text-dark active" href="#">Contact</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
     </header>
-    <div class="contentWrapper">
-  <h2>Contact </h2>
-  <hr>
-  <form>
-      <div id="contactForm" >
-          <label for="name">Name:</label>
-          <input type="text" id="name" name="user_name" size="50" required> 
-
-          <label for="mail">E-mail:</label>
-          <input type="email" id="mail" name="user_mail" size="75" required>
-
-          <label for="msg">Message:</label>
-          <textarea id="msg" name="user_message" cols="80" rows="10" required></textarea>
-
-          <button type="submit">Submit</button>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <h5 style="padding:10px;">Contact </h5>
+          <hr>
+        </div>
       </div>
-  </form>
-</div>
 
-<footer>
-    Copyright ©
-</footer>
-
+         <form>
+          <div id="form-group">
+            <label for="name" class="col-lg-3 col-form-label">Name</label>
+            <div class="col-lg-9">
+              <input class="form-control" type="text" id="name" required .form-control-lg>
+            </div>
+          </div>
+      
+          <div id="form-group">
+            <label for="mail" class="col-lg-3 col-form-label">E-mail</label>
+            <div class="col-lg-9">
+              <input class="form-control" type="email" id="mail" required placeholder="name@example.com" .form-control-lg>
+            </div>
+          </div>
+      
+          <div id="form-group">
+            <label for="msg" class="col-lg-3 col-form-label">Message</label>
+            <div class="col-lg-9">
+              <textarea class="form-control" id="msg" required .form-control-lg></textarea>
+            </div>
+          </div>
+      
+          <button type="submit" class="btn btn-info" style="margin: 10px;">Submit</button>
+        </form>
+      </div>
+      <div class="row">
+          <div class="col-md-12 text-center navbar-dark bg-primary">
+            <footer>
+              Copyright ©
+            </footer>
+          </div>
+        </div>
+          </div>
 </body>
 
 </html>

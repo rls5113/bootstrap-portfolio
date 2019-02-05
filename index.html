@@ -3,50 +3,82 @@
 
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>About</title>
   <link rel="stylesheet" href="assets/css/reset.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
-  <div class="container">
-  <header>
-      <div class="clearfix">
-          <section id="left">
-              Robert Stuart
-          </section>
-        
-          <section id="right">
-            <div id="navLinks">
-              <a href="#">About</a>
-              <a href="portfolio.html">Portfolio</a>
-              <a href="contact.html">Contact</a>
-            </div>
-          </section>
+
+  <div class="container-fluid">
+    <header>
+      <nav class="navbar navbar-dark bg-info">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <h1 class="navbar-brand text-center">Robert Stuart</h1>
+          </div>
+          <ul class="nav nav-tabs justify-content-end">
+            <li class="nav-item">
+              <a class="nav-link  text-dark active" href="#">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-dark" href="portfolio.html">Portfolio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link  text-dark" href="contact.html">Contact</a>
+            </li>
+          </ul>
         </div>
-  </header>
-  <div class="contentWrapper">
-  <h2>About Me </h2>
-  <hr>
-  <p>
-    <img id="aboutPic" src="assets/images/IMG_0053.jpg" alt="Picture of Robert Stuart">
-    Hello, my name is Robert Stuart. Let me introduce myself with some basic information. I consider myself easy going and very approachable. I enjoy meeting new people and talking and sharing with others. For me, success requires a clear set of objectives and a team atmosphere of open and honest communication.
-  </p>
-  <p>
-    I have been a Java programmer since 1999 having worked for less than a dozen companies working on projects encompassing health care, banking, transportation, government and supply chain management.   
-  </p>
-  <p>
-    My first programming job was an internship with the State of Tennessee while pursuing my computer science associate degree. It was great fun and a respite from my jog, at the time, servicing fax machines in the field, covering middle Tennessee and southern Kentucky. The state also provided lots of paid software training opportunities and certifications. At the State, I knew very little HTML so the department Office for Information Resouces (OIR) put me in charge of their website very quickly. They sent me to a few training classes, and before long was able to create and layout pages they were pleased with.  
-  </p>
-  <p>
-    I find the greatest satisfaction when delivering a working solution to the problem at hand. Whether it be a bug or improvement, identifying the root cause, determining how an issue breaks down into intermediate steps, and crafting a solution for each step has become second nature in my every day work patterns. Although the steps can be worked without assistance or outside input, I find it helpful to vocalize and work with others when working the issue's steps.  Even having experienced an issue in the past, I find it rare the solution to be found in the same exact manner as the previous issue, especially if working with a different team member.
-  </p>
-</div>
+      </nav>
+    </header>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <h5 style="padding:10px;">About Me </h5>
+          <hr>
+        </div>
+      </div>
 
-  <footer>
-      Copyright ©
-  </footer>
+      <div class="row">
+          <div class="col-md-12 col-magic">
+              <img class="img-responsive float-left" width="25%" src="assets/images/IMG_0053.jpg" alt="Picture of Robert Stuart" >
+          <p class="text-justify">
+                
+              Hello, my name is Robert Stuart. Let me introduce myself with some basic information. I consider myself easy going and very approachable. I enjoy meeting new people and talking and sharing with others. For me, success requires a clear set of objectives and a team atmosphere of open and honest communication.
+            </p>
+            <p class="text-justify">
+              I have been a Java programmer since 1999 having worked for less than a dozen companies working on projects encompassing health care, banking, transportation, government and supply chain management.
+            </p>
+            <p class="text-justify">
+              My first programming job was an internship with the State of Tennessee while pursuing my computer science associate degree. It was great fun and a respite from my jog, at the time, servicing fax machines in the field, covering middle Tennessee and southern Kentucky. The state also provided lots of paid software training opportunities and certifications. At the State, I knew very little HTML so the department Office for Information Resouces (OIR) put me in charge of their website very quickly. They sent me to a few training classes, and before long was able to create and layout pages they were pleased with.
+            </p>
+            <p class="text-justify">
+              I find the greatest satisfaction when delivering a working solution to the problem at hand. Whether it be a bug or improvement, identifying the root cause, determining how an issue breaks down into intermediate steps, and crafting a solution for each step has become second nature in my every day work patterns. Although the steps can be worked without assistance or outside input, I find it helpful to vocalize and work with others when working the issue's steps. Even having experienced an issue in the past, I find it rare the solution to be found in the same exact manner as the previous issue, especially if working with a different team member.
+            </p>
+          </div>
+          <div class="col-md-12">
+              <hr />
+          </div>
+      </div>
 
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center navbar-dark bg-primary">
+        <footer>
+          Copyright ©
+        </footer>
+      </div>
+    </div>
+  </div>
 </body>
-
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+crossorigin="anonymous"></script>
 </html>
