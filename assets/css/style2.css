@@ -1,0 +1,265 @@
+body {
+    padding: 0;
+    margin: 0;
+    /* font-family: Consolas, "Helvetica Neue", sans-serif; */
+    font-family: Calibri, "Helvetica Neue", sans-serif;
+    background-color: #ebebeb;
+  }
+  p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  hr {
+    border-color: #4aaa;
+  }
+  h2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #4aaa; 
+  }
+  section {
+    float: left;
+    height: 50px;
+  }
+  
+  #left {
+    background-color: #4aaaa5;
+    text-align: center;
+    font-size:2em;
+    font-weight: bold;
+    padding-top: 20px;
+    color: white;
+    width: 30%;
+   
+  }
+  
+  #right {
+    width:69%;
+    padding-top: 20px;
+    background-color: #ffffff;
+  }
+  header {
+    width: 960px;
+  }
+  footer {
+    background-color: #4aaaa5;
+    border-top : 5px solid #2c7e5d;
+    text-align: center;
+    height: 30px;
+    padding-top: 10px;
+
+  }
+  
+  .container {
+    width: 960px;
+    margin-right: 10%;
+    margin: 10% auto;
+    background-color: #ffffff;
+  }
+  .contentWrapper {
+    margin: 5%;
+    background-color: #ffffff;
+  }
+
+ a {
+    text-decoration: none; 
+    padding: 20px;
+    color: #4aaa;
+ }
+ 
+
+  #navLinks {
+      float: right;
+      padding: 5px;
+      
+  }
+  .clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  #aboutPic {
+      float: left;
+      width: 150px;
+      height: 200px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-bottom: 20px;
+  }
+
+  figure {
+    padding: 20px;
+ }
+
+ label {
+   vertical-align: top;
+ }
+
+ form {
+  overflow: hidden;
+}
+
+
+  .inputPair {
+    padding: 15px;
+    margin:20px;
+    vertical-align: top;
+    
+  }
+
+  #contactForm {
+    display: grid;
+    grid-template-rows: 20px 20px 100px;
+    grid-template-columns: [labels] 30% [controls] 60%;
+    grid-auto-flow: row;
+    grid-gap: .8em;
+    background: #ebebeb;
+    padding: 1.2em;
+  }
+
+  #contactForm > label {
+    grid-column: labels;
+    grid-row: auto;
+    font-size:1em;
+    text-align: right;
+  }
+
+  #contactForm > input ,
+  #contactForm > textarea,
+  #contactForm > button {
+    grid-column: controls;
+    grid-row: auto;
+    padding: 1em;
+  }
+
+  button {
+    width: 150px;
+    background-color: #4aaaa5;
+    font-weight: bold;
+    color: white;
+
+  }
+  #portfolioGrid {
+    display: grid;
+    grid-template-rows: repeat(3, .5fr);
+    grid-template-columns: .5fr .5fr;
+    grid-auto-flow: row;
+    grid-gap: .8em;
+    background: #ebebeb;
+    padding: 1.2em;
+  }
+
+  #portfolioGrid > figure {
+    grid-row: auto;
+    padding: 1em;
+
+  }
+  img {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    z-index: 1;
+    margin: 15px;
+
+  }
+  .imgBanner {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #4aaa; 
+    color: #ffffff;
+    width: 180px;
+    height: 20px;
+    position: relative;
+    top: -50px;
+    z-index: 10;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+  }
+
+  @media screen and (min-width: 980px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: #e40b0b;
+    }
+    header {
+      width: 1100px;
+    }
+    img {
+      width:70%;
+      height:70%;
+      margin: 15px;
+
+    }
+    /* #portfolioGrid > figure {
+      padding: .25em;
+    } */
+
+    .imgBanner {
+      font-size: larger;
+      width: 286px;
+      height: 23px;
+      top: -65px;
+    }
+
+    /* The wrapper's width will be 600px */
+    .container {
+      width: 1100px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: #111aee;
+    }
+    header {
+      width: 600px;
+    }
+    #left {
+      /* width: 75px; */
+      font-size:20px;
+    }
+    /* The wrapper's width will be 600px */
+    .container {
+      width: 600px;
+    }
+  }
+  @media screen and (max-width: 640px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: #f8e508;
+    }
+    header {
+      width: 400px;
+    }
+    #left {
+      width: 75px;
+      font-size:15px;
+    }
+    #right {
+      padding:5px;
+      font-size:10px;
+    }
+    img {
+      width:85%;
+      height:85%;
+      margin: 15px;
+
+    }
+    #portfolioGrid > figure {
+      padding: .25em;
+    }
+
+    .imgBanner {
+      font-size: 10px;
+      width: 105px;
+      height: 8px;
+      top: -35px;
+    }
+    /* The wrapper's width will be 600px */
+    .container {
+      width: 400px;
+    }
+  }

@@ -1,3 +1,44 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  /* font-family: Consolas, "Helvetica Neue", sans-serif; */
+  font-family: Calibri, "Helvetica Neue", sans-serif;
+  background-color: #ebebeb;
+}
 img {
+  z-index: 1;
   margin: 15px;
+}
+.portfolio {
+  margin: 15px;
+  /* width:250px; */
+  height: 200px;
+  position: relative;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
+figure {
+  float: middle;
+}
+.imgBanner {
+  /* font-family: Georgia, "Times New Roman", Times, serif; */
+  font-weight: bold;
+  background-color: #4aaa; 
+  color: #ffffff;
+  width: 250px;
+  height: 40px;
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10px;
+  /* border: 2px solid blue; */
+}
+h5 {
+  font-weight: bold;
 }

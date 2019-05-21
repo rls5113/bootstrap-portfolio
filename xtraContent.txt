@@ -1,0 +1,14 @@
+         <p class="text-justify">
+                
+              Hello, my name is Robert Stuart. Let me introduce myself and share a little biography.
+              <ul class="list-group">
+                <li class="list-group-item"> Born in Baltimore Maryland and lived in Roanoke Va, until age 5</li>
+                <li class="list-group-item">Moved to Bowling Green, Ky where I attended public schools, graduated High School in 1980</li>
+                <li class="list-group-item">Attended Western Ky University for 2 semesters</li>
+                <li class="list-group-item">Returned to Bowling Green to work 2 jobs in food service. </li>
+                <li class="list-group-item">Moved to Nashvile TN to service fax machines for 13 years </li>
+                <li class="list-group-item">Married Jane Wehby in 1989 and after first child was born in 1993, decided to attend Nashville Tech at night, while servicing fax machines during the day </li>
+                <li class="list-group-item">Graduated Nashville Tech in 1999 and since graduation, have been employeed as Java developer</li>
+              </ul>
+        </p>
+ 

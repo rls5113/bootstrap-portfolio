@@ -1,14 +1,14 @@
 {\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}
-{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f39\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Verdana;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f39\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}
 {\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
 {\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
-{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f40\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f41\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
-{\f43\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f44\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f45\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f46\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
-{\f47\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f48\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f380\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f381\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
-{\f383\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f384\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f387\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f388\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
-{\f430\fbidi \fswiss\fcharset238\fprq2 Verdana CE;}{\f431\fbidi \fswiss\fcharset204\fprq2 Verdana Cyr;}{\f433\fbidi \fswiss\fcharset161\fprq2 Verdana Greek;}{\f434\fbidi \fswiss\fcharset162\fprq2 Verdana Tur;}
-{\f437\fbidi \fswiss\fcharset186\fprq2 Verdana Baltic;}{\f438\fbidi \fswiss\fcharset163\fprq2 Verdana (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f224\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f225\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f227\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f228\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f229\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f230\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f231\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f232\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f564\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f565\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
+{\f567\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f568\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f571\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f572\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\f614\fbidi \fswiss\fcharset238\fprq2 Verdana CE;}{\f615\fbidi \fswiss\fcharset204\fprq2 Verdana Cyr;}{\f617\fbidi \fswiss\fcharset161\fprq2 Verdana Greek;}{\f618\fbidi \fswiss\fcharset162\fprq2 Verdana Tur;}
+{\f621\fbidi \fswiss\fcharset186\fprq2 Verdana Baltic;}{\f622\fbidi \fswiss\fcharset163\fprq2 Verdana (Vietnamese);}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
 {\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
 {\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
 {\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
@@ -40,20 +40,23 @@
 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 \slink17 Body Text;}{\*\cs17 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \fs24 \sbasedon10 \slink16 \slocked \ssemihidden Body Text Char;}{\*\cs18 \additive \rtlch\fcs1 \af0 
 \ltrch\fcs0 \ul\cf2 \sbasedon10 \styrsid4551556 Hyperlink;}{\*\cs19 \additive \rtlch\fcs1 \af0 \ltrch\fcs0 \sbasedon10 \spriority0 \styrsid9727404 genericfieldinputreplacement;}}{\*\pgptbl {\pgp\ipgp2\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0
 \sa0}{\pgp\ipgp4\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp2\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid524456\rsid1734243\rsid1785346\rsid1970101\rsid2306826\rsid2885366\rsid3353426\rsid3567158\rsid4158760\rsid4199386\rsid4330176\rsid4551556\rsid5181418\rsid5319995
-\rsid5645860\rsid8069003\rsid8199235\rsid8276444\rsid8655567\rsid9727404\rsid9797057\rsid9967737\rsid9991196\rsid10364111\rsid10638128\rsid13326123\rsid13860055\rsid14500849\rsid14840984\rsid14881445\rsid15148280\rsid15225199\rsid15544946\rsid15816979
-\rsid15860552\rsid16264622\rsid16675623}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\author JOULE}{\operator rstuart}{\creatim\yr2003\mo12\dy9\hr14\min26}
-{\revtim\yr2018\mo8\dy5\hr11\min58}{\printim\yr2004\mo3\dy26\hr10\min51}{\version41}{\edmins510}{\nofpages4}{\nofwords1330}{\nofchars7581}{\*\company  }{\nofcharsws8894}{\vern49169}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordm
-l}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\gutter0\ltrsect 
+\rsid5645860\rsid8069003\rsid8199235\rsid8276444\rsid8462884\rsid8655567\rsid9727404\rsid9797057\rsid9967737\rsid9991196\rsid10364111\rsid10638128\rsid10819000\rsid12086651\rsid12676667\rsid13326123\rsid13860055\rsid14500849\rsid14840984\rsid14881445
+\rsid15148280\rsid15225199\rsid15276919\rsid15544946\rsid15816979\rsid15860552\rsid16264622\rsid16456686\rsid16675623}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info
+{\author JOULE}{\operator rstuart}{\creatim\yr2003\mo12\dy9\hr14\min26}{\revtim\yr2019\mo5\dy20\hr10\min32}{\printim\yr2019\mo5\dy20\hr10\min26}{\version44}{\edmins553}{\nofpages4}{\nofwords1358}{\nofchars7744}{\nofcharsws9084}{\vern49169}}
+{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}{\xmlns2 urn:schemas-microsoft-com:office:smarttags}}\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen
 \expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot16675623 \fet0{\*\wgrffmtfilter 013f}\ilfomacatclnup0\ltrpar 
 \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}
 {\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 
-\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 Robert L. Stuart}{\rtlch\fcs1 \af0 \ltrch\fcs0 \cf1\insrsid5181418  
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15148280 5113 Prince Phillip Cove\line {\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname PlaceType}}Brentwood}{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \fs20\cf1\insrsid5181418 {\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname PlaceType}}{\*\xmlopen\xmlns2{\factoidname State}}TN{\*\xmlclose}{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname PlaceType}}{\*\xmlopen\xmlns2{\factoidname PostalCode}}370}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15148280 27}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 -}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15148280 6811{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}{\*\xmlclose}\line 
-Home: (615) 373-6874}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \line Cell : (615) 496-1551
+\af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 Robert L. Stuart}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
+\b\fs20\cf17\insrsid5181418\charrsid12676667 
+\par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\i\fs20\cf17\insrsid12676667\charrsid12676667 Full Stack Software Developer}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\i\fs20\cf17\insrsid10819000\charrsid12676667 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10819000 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 Residence: Brentwood, TN 37027
+\par 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15148280 Home: (615) 373-6874}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \line }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 Mobile}{\rtlch\fcs1 \af0\afs20 
+\ltrch\fcs0 \fs20\cf1\insrsid5181418 : (615) 496-1551
 \par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8069003 Email:  stuartrl@comcast.net
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 
 \par Objective}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  
@@ -68,39 +71,45 @@ roper tools and equipment for performing duties}{\rtlch\fcs1 \af0 \ltrch\fcs0 \i
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af39\afs15 \ltrch\fcs0 \f39\fs15\insrsid5181418 
 \par 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 Skills
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab Java\tab \tab \tab Certified \tab Currently using\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 10}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
-\par \tab HTML\tab \tab \tab Expert\tab \tab Currently using\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 11}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab Java\tab \tab \tab Certified \tab Current }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 2}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 0}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
  years
-\par \tab Oracle Database\tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 No longer using}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 
-\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 11}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
-\par \tab JavaScript}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057  ({\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname place}}{\*\xmlopen\xmlns2{\factoidname PlaceType}}AJAX{\*\xmlclose}{\*\xmlclose}{\*\xmlclose})}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 Intermediate\tab Medium use \tab \tab 8}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab JSP\tab \tab \tab Ex}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 pert\tab \tab Currently us}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 e}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab \tab 9}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
-\par \tab XML\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab Intermediate\tab Currently us}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 e}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab \tab 6}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab EJB\tab \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 No longer use\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 6}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  year ago for previous }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 2}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid5181418 
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 \tab Unix\tab \tab \tab User\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9991196 Intermediate}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444  \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 6}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  year}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9991196 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-\par \tab SQL Server\tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 Intermediate}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 2 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-\par \tab Eclipse\tab \tab \tab Intermediate\tab Currently use \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 8}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid5181418  year}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995  -}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995\charrsid5319995  }{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 Currently use}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-\par \tab Ant\tab \tab \tab Intermediate\tab Currently use \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab 5}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  year}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid8276444 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid13326123 \tab Test driven development\tab Intermediate}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 Currently use\tab 
-\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 5 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid13326123 
+\par \tab HTML\tab \tab \tab Expert\tab \tab Current }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 2}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 1}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
+\par \tab Oracle Database\tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 Current\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 
+\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 18}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
+\par \tab JavaScript}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057  (AJAX)}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 Intermediate\tab }{\rtlch\fcs1 \af0\afs20 
+\ltrch\fcs0 \fs20\cf1\insrsid12676667 Current\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057  \tab \tab 8}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab JSP\tab \tab \tab Ex}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 pert\tab \tab Current}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab }{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 12}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
+\par \tab XML\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab Intermediate\tab Current, limited\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab 6}
+{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  years
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab EJB\tab \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 Current, limited}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 \tab }{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 5}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  year}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid12676667 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 \tab Unix\tab \tab \tab User\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 Current}{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444  \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 6}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  year}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9991196 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\par \tab SQL Server\tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 No}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884  longer }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 us}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 e}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid8462884 3}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128  years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\par \tab Ecli}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 pse}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 /MyEclipse}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab Intermediate\tab Current\tab }{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 19}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid5181418  year}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\par \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 Ant\tab \tab \tab Intermediate\tab Current\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12676667 \tab 12}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  year}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 s}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid13326123 \tab Test driven development\tab Intermediate}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 Current, limited}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 \tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 5 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid13326123 
 \par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid14500849 \tab MySql\tab \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 Rarely}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101  use\tab \tab }{
 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 4 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid14500849 
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8199235 \tab xPression \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 No longer}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8199235  use\tab \tab }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 1.5 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8199235 
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 \tab JBoss\tab \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 \tab }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 2 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8199235 \tab xPression \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 No}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884  }{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 longer}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8199235  use\tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1970101 1.5 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid8199235 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 \tab JBoss\tab \tab \tab Intermediate\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 Current\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5319995 \tab }{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4330176 \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 1}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid10638128 2 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid4330176 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 \tab Hibernate\tab \tab Intermediate\tab Current\tab \tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid12086651 11 years}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid8462884 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 
 \par Certifications}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  
 \par Earned Sun Certified Java Programmer in Dec 2001.  
@@ -108,48 +117,45 @@ roper tools and equipment for performing duties}{\rtlch\fcs1 \af0 \ltrch\fcs0 \i
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 Experience}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid9727404 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid15225199 
 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid1785346 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 
-\ltrch\fcs0 \b\fs20\cf1\insrsid1785346 Senior Java Programmer\tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1785346 September}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1785346  2011}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid1785346  to present}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1785346 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid1785346 Cleartrac}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid13860055 k}{
-\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid1785346  Information System}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid1785346 
-\par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid1785346 Brentwood}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid1785346  TN
+\ltrch\fcs0 \b\fs20\cf1\insrsid1785346 Senior Java Programmer\tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid1785346 September 2011 to present\line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid1785346 Cleartrac}{\rtlch\fcs1 
+\ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid13860055 k}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid1785346  Information System
+\par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid1785346 Brentwood TN
 \par }\pard\plain \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0\pararsid1785346 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\cs19\fs20\insrsid13860055 First 7 months as contractor, then as full time employee.  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid5645860 Supply chain management system, used to track shipment, purchase order, product 
-inspections, and shipment authorization rules.  System can be configured to send notifications and alerts.  Technologies used JReport and Jasper for reporting, JSF}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid2306826  }{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \cs19\fs20\insrsid5645860 (Trinidad), Java, Hibernate, and Oracle.  Small company with }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid2306826 a }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid5645860 few large clients.}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346\charrsid15225199 
+\cs19\fs20\insrsid13860055 First 7 months as contractor, then as full time employee.  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid5645860 
+Supply chain management system, used to track shipment, purchase order, product inspections, and shipment authorization rules.  System can be configured to send notifications and alerts.  Technologies used JReport and Jasper for reporting, JSF}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid2306826  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid5645860 (Trinidad), Java, Hibernate, and Oracle.  Small company with }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid2306826 a }{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid5645860 few large clients.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346\charrsid15225199 
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid1785346 
 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid15225199 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 
-\ltrch\fcs0 \b\fs20\cf1\insrsid15225199 Senior}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid15225199  Java Programmer\tab \tab }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199 Ma}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid15816979 rch}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199  20}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199 11}{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \fs20\cf1\insrsid15225199  to }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199 August}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199  201}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199 1}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid15225199 Averitt Express}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid15816979 , Contractor}{\rtlch\fcs1 
-\ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid15225199 
-\par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid15225199 Cookeville}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid15225199  TN
+\ltrch\fcs0 \b\fs20\cf1\insrsid15225199 Senior Java Programmer\tab \tab }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199 Ma}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15816979 rch}{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid15225199  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199  2011 to August 2011\line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid15225199 Averitt Express}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 
+\i\fs20\cf1\insrsid15816979 , Contractor}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid15225199 
+\par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid15225199 Cookeville TN
 \par }\pard\plain \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0\pararsid1785346 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\cs19\fs20\insrsid15816979 Completed development of Google Maps project to locate and identify trucks in the Averitt fleet of trucks}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346  on the map.
-  Program provide driver name, truck number, and load information on mouse over.  Written in prototype and unit tested using Jasmine, built and deployed using maven.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346\charrsid1785346  }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346 .  Maintained existing legacy system; JSF, Hibernate, WebSphere, AS400}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346\charrsid15225199 
-\par }\pard \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0\pararsid15225199 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid15225199\charrsid15225199 
+\cs19\fs20\insrsid15816979 Completed development of Google Maps project to locate and identify trucks in the Averitt fleet of trucks}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346  on the map.  Prog
+ram provide driver name, truck number, and load information on mouse over.  Written in prototype and unit tested using Jasmine, built and deployed using maven.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346\charrsid1785346  }{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346 .  Maintained existing legacy system; JSF, Hibernate, WebSphere, AS400}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\insrsid1785346\charrsid15225199 
 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0\pararsid9727404 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 
-\ltrch\fcs0 \b\fs20\cf1\insrsid9727404 Senior Java Programmer\tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9727404 September 2009 to }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15816979 January}{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \fs20\cf1\insrsid15225199  201}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15816979 1}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9727404 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid9727404 
-Franklin American Mortgage Co.
+\ltrch\fcs0 \b\fs20\cf1\insrsid8462884 
+\par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid9727404 Senior Java Programmer\tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9727404 September 2009 to }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15816979 January}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15225199  201}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid15816979 1}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9727404 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 
+\i\fs20\cf1\insrsid9727404 Franklin American Mortgage Co.
 \par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid5319995 Franklin TN}{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid9727404 
 \par }\pard\plain \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0\pararsid9727404 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 Develop web services to interact with business partners. }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404 \hich\af0\dbch\af31501\loch\f0 
 Participate as code contributor and build duties for weekly release schedule.  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 Maintain multiple systems using a }{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 combination}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  of open source}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0  and proprietary}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 
- technologies such as struts}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 2}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 
-\hich\af0\dbch\af31501\loch\f0 , }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 A}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 
-\hich\af0\dbch\af31501\loch\f0 jax, bamboo, maven, cvs, }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 subversion, }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 SQL server, RESTful, JMS, JBoss, javascript, css, AOP. }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404 \hich\af0\dbch\af31501\loch\f0  }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 We are currently in the process of refactoring }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid5319995 
-\hich\af0\dbch\af31501\loch\f0 heteroge\hich\af0\dbch\af31501\loch\f0 nous}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0  systems into Enterprise Service Bus (ESB).  Successfully d}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 eveloped}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0  the primary}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  imag}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 e delivery}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  system to receive images from external}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 
- and }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 internal sources and process into document repository.
+\af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 combination}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  
+\hich\af0\dbch\af31501\loch\f0 of open source}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0  and proprietary}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  technologies such as struts}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 2}{\rtlch\fcs1 \af0\afs20 
+\ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 , }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 A}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 jax, bamboo, maven, cvs, }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 subversion, }{\rtlch\fcs1 \af0\afs20 
+\ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 SQL server, RESTful, JMS, JBoss, javascript, css, AOP. }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404 
+\hich\af0\dbch\af31501\loch\f0  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 We are currently in the process of refactoring }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\cs19\fs20\dbch\af31501\insrsid5319995 \hich\af0\dbch\af31501\loch\f0 heterogenous}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0  systems into Enterprise Service Bus (ESB).  Successfully d}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 eveloped}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0  the primary}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  imag}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 \hich\af0\dbch\af31501\loch\f0 e delivery}{
+\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0  system to receive images from external}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid4330176 
+\hich\af0\dbch\af31501\loch\f0  and }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs19\fs20\dbch\af31501\insrsid9727404\charrsid9727404 \hich\af0\dbch\af31501\loch\f0 internal sources and process into document repository.
 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
 \b\fs20\cf1\insrsid9727404 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid5181418 Java Programmer\tab  \tab \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 August 2005 to }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9727404 September 2009}{
@@ -157,23 +163,22 @@ Participate as code contributor and build duties for weekly release schedule.  }
 \par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid15860552 Govt }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 Healthcare Services Division
 \par }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\insrsid5181418 {\*\xmlopen\xmlns2{\factoidname City}}Franklin{\*\xmlclose} TN\line  
 \par }\pard\plain \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0\pararsid10364111 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\b\fs20\insrsid10364111 {\*\xmlopen\xmlns2{\factoidname City}}Enterprise{\*\xmlclose} \endash }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111  Develop letter templates using EMC products; xPression, xDesign, xAdmin.  T
-he letters cross several lines of business and must read current data from Oracle }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 10g }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111 
-database.  Develop on demand and batch capablities for letter production. }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid9991196  Architect archiving and CC solutions for the system.  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid4199386 
-This tool uses an application server for request responses.  The c}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111 urrent configuration uses Websphere application server.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid4199386 
-  Duties include administrative configuration }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 as well as}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid4199386  development}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 
- for multiple client contracts}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid4199386 .}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111\charrsid9797057 
+\b\fs20\insrsid10364111 {\*\xmlopen\xmlns2{\factoidname City}}Enterprise{\*\xmlclose} \endash }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111 
+ Develop letter templates using EMC products; xPression, xDesign, xAdmin.  The letters cross several lines of business and must read current data from Oracle }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 10g }{\rtlch\fcs1 \af0\afs20 
+\ltrch\fcs0 \fs20\insrsid10364111 database.  Develop on demand and batch capablities for letter production. }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid9991196  Architect archiving and CC solutions for the system.  }{\rtlch\fcs1 \af0\afs20 
+\ltrch\fcs0 \fs20\insrsid4199386 This tool uses an application server for request responses.  The c}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111 urrent configuration uses Websphere application server.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\insrsid4199386   Duties include administrative configuration }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 as well as}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid4199386  development}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\insrsid1970101  for multiple client contracts}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid4199386 .}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid10364111\charrsid9797057 
 \par }\pard \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \b\fs20\insrsid9797057 FLHK \endash }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid9797057 
  Develop and improve new application to determine eligibility for State of {\*\xmlopen\xmlns2{\factoidname City}}Florida{\*\xmlclose} family healthcare programs.  The system uses various combinations of Spring, Struts, AJAX, Oracle, Unix, Ant, WebSphere}{
 \rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid15860552 , CVS, cruiseControl,}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid3567158  Informatics}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid9797057 
- and test driven Agile development methodology to meet a very demanding release schedule.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid15860552 
-  Use of Hibernate is planned for future iteration.  Work closely with analyst group to clarify and realize use cases, ensuring application behavior meets client expectations.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid9797057\charrsid9797057 
-
-\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \b\fs20\insrsid9797057 MEDS - }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 Maintain systems that in support of company\rquote s healthcare services divis
-ion.  Most recent assignment is Medicaid eligibility for State of {\*\xmlopen\xmlns2{\factoidname City}}Mississippi{\*\xmlclose}.  Agile development is used to facilitate fast-paced changes }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 
-to mission critical systems }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 needed to match our clients\rquote }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623  changing business requirements.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\insrsid5181418     The following }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 base }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 te
-chnologies apply:  WebSphere, Oracle, CVS, Unix, Ant, Java, EJB, Struts, Vi, along with other various open source and license software.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+ and test driven Agile development methodology to meet a very demanding release schedule.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid15860552   Use of Hibernate is planned for future iteration.  Work closely with analyst
+ group to clarify and realize use cases, ensuring application behavior meets client expectations.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid9797057\charrsid9797057 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \b\fs20\insrsid9797057 MEDS - }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 Maintain systems that in support of company\rquote 
+s healthcare services division.  Most recent assignment is Medicaid eligibility for State of {\*\xmlopen\xmlns2{\factoidname City}}Mississippi{\*\xmlclose}.  Agile development is used to facilitate fast-paced changes }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\insrsid16675623 to mission critical systems }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 needed to match our clients\rquote }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623  changing business requirements.}{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418     The following }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 base }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 
+technologies apply:  WebSphere, Oracle, CVS, Unix, Ant, Java, EJB, Struts, Vi, along with other various open source and license software.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
 \b\fs20\cf1\insrsid5181418 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid3353426 
@@ -193,25 +198,24 @@ Maintain}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 ed}{\rtlch\fc
 \i\fs20\cf1\insrsid5181418 Java development}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  
 \par }\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid5181418 
 \par }\pard \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 Establish}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 ed}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\insrsid5181418  J2EE environment for major division of State government. Us}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 ed}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  Rational Un
-ified Process (RUP) to create new J2EE systems current with }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 State}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  initiatives. Responsibilities include}{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \fs20\insrsid16675623 d}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  integration of myriad of tightly coupled legacy systems and providing cost effective data delivery methods to data consumers.   Us}{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \fs20\insrsid16675623 ed}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  Oracle JDeveloper 
-for system development, Oracle for database, and Rational ClearCase for Source control.  This office implements Enterprise Java Beans (session and  entity beans), servlets, Java Server Pages, cascading style sheets for applications.}{\rtlch\fcs1 
-\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+\fs20\insrsid5181418  J2EE environment for major division of State government. Us}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 ed}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418 
+ Rational Unified Process (RUP) to create new J2EE systems current with }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid1970101 State}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  initiatives. Responsibilities include}{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 d}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  integration of myriad of tightly coupled legacy systems and providing cost effective data delivery methods to data consumers.   Us}{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\insrsid16675623 ed}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\insrsid5181418  Oracle JDeveloper for system development, Oracle for database, and Rational ClearCase for Source cont
+rol.  This office implements Enterprise Java Beans (session and  entity beans), servlets, Java Server Pages, cascading style sheets for applications.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
 \par }\pard\plain \ltrpar\s1\ql \li0\ri0\keepn\nowidctlpar\wrapdefault\faauto\outlinelevel0\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 
 \b\fs20\cf1\insrsid5181418 
 \par Internet Application Systems Developer \tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 June 1999 to Oct 2003\line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 State of {\*\xmlopen\xmlns2{\factoidname City}}
-Tennessee{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose} TN}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 
-Dept of Finance and Administration, }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 Systems Development and Support}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+Tennessee{\*\xmlclose} {\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose} TN}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 De
+pt of Finance and Administration, }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 Systems Development and Support}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
 \fs20\cf1\insrsid5181418  \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 Web application development}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  
 \par }\pard\plain \ltrpar\ql \fi360\li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
 \fs20\cf1\insrsid5181418 SUN CERTIFIED JAVA PROGRAMMER FOR JAVA2
 \par Technical Lead for major }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 Dept of Safety}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  information technology project.
-\par }\pard \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-Used Java, JSP, SQL on Oracle 9i to develop web-enabled enterprise solutions.  Project manager for small to medium sized systems. Experience in multi-tier environments}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 ,}{\rtlch\fcs1 \af0\afs20 
-\ltrch\fcs0 \fs20\cf1\insrsid5181418  system migrations}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 ,and }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Oracle from v8.05 to 9i.  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid8276444 Used}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  with source control (Microsoft SourceSafe, PVCS). Maintain professional relations with customers, supervisors and other employees. Graphics experience.  
+\par }\pard \ltrpar\ql \li360\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin360\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Used Java, JSP, SQL on Oracle 9i to develop web
+-enabled enterprise solutions.  Project manager for small to medium sized systems. Experience in multi-tier environments}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 ,}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+ system migrations}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 ,and }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Oracle from v8.05 to 9i.  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8276444 Used}{\rtlch\fcs1 
+\af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  with source control (Microsoft SourceSafe, PVCS). Maintain professional relations with customers, supervisors and other employees. Graphics experience.  
 \par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid5181418 Co-op Intern thru Nashville State Tech}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  
 \tab Oct 1998 to June 1999 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 State of Tennessee Nashville TN}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 
 \i\fs20\cf1\insrsid5181418 Dept of Finance and Administration, }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 Office for Information Resources}{\rtlch\fcs1 \af0\afs20 
@@ -228,18 +232,20 @@ Maintain static web pages for departments in OIR using various HTML editors.
 Maintain and service an average base of 450 facsimile and other office messaging devices within a 100 mile radius of Nashville.
 \par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Installation and customer training
 \par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Qualified on over 50 different models
-\par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-Maintain excellent evaluations for customer relations and related work while gaining promotion through three levels of service representatives.
+\par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Maintain excellent evaluations for customer rela
+tions and related work while gaining promotion through three levels of service representatives.
 \par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Commended for conflict resolution, problem solving, and quality decision making in high stress situations
 \par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Ranked number one in productivity three consecutive quarters (1996-97)
 \par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid5181418 Independent Agent (Facsimile service)}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
- 1985-1987 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 under contract with Telautograph Omnifax Corporation}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \line Independent service agent for Omnifax messaging 
-devices company in the central {\*\xmlopen\xmlns2{\factoidname City}}Kentucky{\*\xmlclose} area prior to being offered a position in the {\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose} area. 
+ 1985-1987 \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 under contract with Telautograph Omnifax Corporation}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \line 
+Independent service agent for Omnifax messaging devices company in the central {\*\xmlopen\xmlns2{\factoidname City}}Kentucky{\*\xmlclose} area prior to being offered a position in the {\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose} area. 
+
 \par }\pard \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf17\insrsid5181418 Education}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  
-\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Attended 10 employee sponsored }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid5181418 
-Oracle University}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  professional technical training courses}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid14840984  while working for State of {\*\xmlopen\xmlns2{\factoidname City}}TN}{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 .{\*\xmlclose} 
+\par }\pard \ltrpar\ql \li0\ri0\sb100\sa100\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 Attended Vanderbilt Coding Bootcamp, in partnership with Trilogy \endash  A 
+24 week curriculum designed to teach the following skills: 
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Attended 10 employee sponsored }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid5181418 Oracle University}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+ professional technical training courses}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid14840984  while working for State of TN}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 . 
 \par }{\rtlch\fcs1 \ab\af0\afs20 \ltrch\fcs0 \b\fs20\cf1\insrsid5181418 Student}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418  \line }{\rtlch\fcs1 \ai\af0\afs20 \ltrch\fcs0 \i\fs20\cf1\insrsid5181418 {\*\xmlopen\xmlns2{\factoidname City}}
 Nashville{\*\xmlclose} Tech {\*\xmlopen\xmlns2{\factoidname City}}{\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose}, {\*\xmlopen\xmlns2{\factoidname City}}TN{\*\xmlclose}{\*\xmlclose} }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
 \fs20\cf1\insrsid5181418 
@@ -255,13 +261,14 @@ Seasoned professional that is confident enough to not be afraid of changing work
 \par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid4158760 \'b7\'20\'20\'20\'20\'20}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4158760 Willing to learn and embrace processes that prove to be more efficient.}{\rtlch\fcs1 \af0\afs20 
 \ltrch\fcs0 \fs20\cf1\insrsid4551556\charrsid524456 
 \par }\pard \ltrpar\ql \fi-360\li720\ri0\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0\pararsid4551556 {\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid4551556 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4551556 Member of 
-{\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose} Elks Lodge 72 since 2002.  Created and maintain local website at }{\field{\*\fldinst {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4551556  HYPERLINK "http://www.elks72.org" }{
-\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8655567\charrsid15544946 {\*\datafield 
+{\*\xmlopen\xmlns2{\factoidname City}}Nashville{\*\xmlclose} Elks Lodge 72 since 2002.  Created and maintain}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 ed}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4551556  local website at }
+{\field{\*\fldinst {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4551556  HYPERLINK "http://www.elks72.org" }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8655567\charrsid15544946 {\*\datafield 
 00d0c9ea79f9bace118c8200aa004ba90b02000000170000000f0000007700770077002e0065006c006b007300370032002e006f00720067000000e0c9ea79f9bace118c8200aa004ba90b4600000068007400740070003a002f002f007700770077002e0065006c006b007300370032002e006f00720067002f0000007958
-81f43b1d7f48af2c825dc485276300000000a5ab00000000000000}}}{\fldrslt {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs18\fs20\ul\cf2\insrsid4551556\charrsid15544946 www.elks72.org}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
-\fs20\cf1\insrsid4551556 . }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
-\par }\pard \ltrpar\ql \fi-360\li720\ri0\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Maintain high person
-al and professional goals and standards.  Willing to take ownership for quality of work.
+81f43b1d7f48af2c825dc485276300000000a5ab000000000000004300}}}{\fldrslt {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \cs18\fs20\ul\cf2\insrsid4551556\charrsid15544946 www.elks72.org}}}\sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid8462884  from 2003 to 2013}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid4551556  }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid8462884 (no longer in service). Apache and Struts.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 
+\fs20\cf1\insrsid5181418 
+\par }\pard \ltrpar\ql \fi-360\li720\ri0\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0 {\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
+Maintain high personal and professional goals and standards.  Willing to take ownership for quality of work.
 \par }{\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 Work well in team environments
 \par }\pard \ltrpar\ql \fi-360\li720\ri0\nowidctlpar\tx720\wrapdefault\faauto\rin0\lin720\itap0\pararsid9797057 {\rtlch\fcs1 \af3\afs20 \ltrch\fcs0 \f3\fs20\cf1\insrsid5181418 \'b7\tab }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid5181418 
 Highly motivated and committed to an organized plan for achievement.}{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \fs20\cf1\insrsid9797057 
@@ -371,8 +378,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e50000000000000000000000006027
-b885dd2cd401feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000100a
+e53f210fd501feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
