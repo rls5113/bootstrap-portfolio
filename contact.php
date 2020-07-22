@@ -60,7 +60,7 @@ if($_POST["message"]) {
         </div>
       </div>
 
-         <form action="mailto:stuartrl@comcast.net" method="POST" enctype="multipart/form-data" name="EmailForm">
+         <form action="contact.php" method="POST" enctype="multipart/form-data" name="EmailForm">
           <div id="form-group">
             <label for="name" class="col-lg-3 col-form-label">Name</label>
             <div class="col-lg-9">
