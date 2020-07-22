@@ -1,9 +1,20 @@
 <?php
-if($_POST["message"]) {
-    mail("stuartrl@comcast.net", "Form to email message", $_POST["message"], "From: bootstrap-portfolio@github.com");
+
+if($_POST["submit"]) {
+    $recipient="stuartrl@comcast.net";
+    $subject="Message from github portfolio";
+    $sender=$_POST["name"];
+    $senderEmail=$_POST["mail"];
+    $message=$_POST["msg"];
+
+    $mailBody="Name: $name\nEmail: $mail\n\n$msg";
+
+    mail($recipient, $subject, $mailBody, "From: $name <$mail>");
+
+    $thankYou="<p>Thank you! Your message has been sent.</p>";
 }
-?>
-<!DOCTYPE html>
+
+?><!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -60,7 +71,7 @@ if($_POST["message"]) {
         </div>
       </div>
 
-         <form action="contact.php" method="POST" enctype="multipart/form-data" name="EmailForm">
+         <form action="contact.php" method="POST" >
           <div id="form-group">
             <label for="name" class="col-lg-3 col-form-label">Name</label>
             <div class="col-lg-9">
